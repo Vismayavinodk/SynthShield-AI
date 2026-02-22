@@ -102,27 +102,6 @@ The project highlights the importance of adversarial robustness in real-world AI
 
 ## 📂 Repository Structure
 
-SynthShield-AI/
-│
-├── README.md
-├── requirements.txt
-│
-├── notebooks/
-│ └── SynthShield.ipynb
-│
-├── models/
-│ ├── guardian_stage1.pth
-│ └── guardian_final.pth
-│
-├── results/
-│ ├── adversarial_examples.png
-│ ├── confidence_trajectory.png
-│ ├── confusion_matrix.png
-│ └── gradcam_example.png
-│
-└── report/
-└── SynthShield_Report.pdf
-
 
 ---
 

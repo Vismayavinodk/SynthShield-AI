@@ -100,11 +100,6 @@ The project highlights the importance of adversarial robustness in real-world AI
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## ⚙️ Installation & Usage
 
 ### 1️⃣ Clone the Repository

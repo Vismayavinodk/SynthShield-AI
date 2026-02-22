@@ -110,6 +110,7 @@ The project highlights the importance of adversarial robustness in real-world AI
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/Vismayavinodk/SynthShield-AI.git
+
 cd SynthShield-AI
 
 ### 2️⃣ Install Dependencies
